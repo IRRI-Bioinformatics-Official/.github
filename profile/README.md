@@ -49,7 +49,7 @@ Here are some of the key bioinformatics tools created and maintained by the Bioi
 
 ### **SNP Analysis Tools**
 5. **SNPseek**: A powerful tool for SNP analysis and integration with genomic data.  
-   - Web Application. [Repository](https://github.com/irri/SNPseekv3Private) [Documentation](https://docs.irri.org/SNPseekv3Private)  
+   - Web Application. [Repository]([https://github.com/irri/SNPseekv3Private](https://github.com/RBI-Bioinformatics/SNPseekv3)) [Documentation](https://docs.irri.org/SNPseekv3Private)  
    - Datasource [Repository](https://github.com/irri/SNPseekv3Private) [Documentation](https://docs.irri.org/SNPseekv3Private)
    - Genotype Loader [Repository](https://github.com/irri/SNPseekv3Private) [Documentation](https://docs.irri.org/SNPseekv3Private)
    - Dockerized Version [Repository](https://github.com/irri/SNPseekv3Private) [Documentation](https://docs.irri.org/SNPseekv3Private) [package](https://docs.irri.org/SNPseekv3Private)
