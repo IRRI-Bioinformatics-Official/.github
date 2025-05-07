@@ -9,6 +9,8 @@
    - [Drone and Phenotypic Data Tools](#drone-and-phenotypic-data-tools)
    - [Training and Educational Tools](#training-and-educational-tools)
 
+---
+## Introduction
 The **Bioinformatics Team** at the *International Rice Research Institute (IRRI)* is dedicated to advancing rice research through the application of computational biology, data analysis, and genomic technologies.
 
 Our team develops and applies cutting-edge **bioinformatics tools** to analyze large-scale genomic and phenotypic data, supporting the improvement of rice varieties for:
