@@ -35,58 +35,55 @@ Here are some of the key bioinformatics tools created and maintained by the Bioi
    - [GitHub Repository](https://github.com/irri/bioinfoPortalPublic)  
    - [Documentation](https://docs.irri.org/bioinfoPortalPublic)
   
-2. **CropgalaxyPublic**: A data-intensive platform designed for bioinformatics workflows.  
+2. **Crop Galaxy**: A data-intensive platform designed for bioinformatics workflows.  
    - [GitHub Repository](https://github.com/irri/CropgalaxyPublic)  
    - [Documentation](https://docs.irri.org/CropgalaxyPublic)
+   - Dockerized version [GitHub Repository](https://github.com/irri/docker_cropgalaxyPrivate)
   
-3. **docker_cropgalaxyPrivate**: Dockerized version of the Cropgalaxy platform for easier deployment.  
-   - [GitHub Repository](https://github.com/irri/docker_cropgalaxyPrivate)
-
-4. **GalaxyPublic**: A platform for data-intensive science, enabling reproducible research and bioinformatics analysis.  
+3. **Galaxy**: A platform for data-intensive science, enabling reproducible research and bioinformatics analysis.  
    - [GitHub Repository](https://github.com/irri/GalaxyPublic)  
    - [Documentation](https://docs.irri.org/GalaxyPublic)
 
-5. **Galaxy-for-CropsPrivate**: A tailored version of the Galaxy platform optimized for crop science and research.  
+4. **Galaxy-for-CropsPrivate**: A tailored version of the Galaxy platform optimized for crop science and research.  
    - [GitHub Repository](https://github.com/irri/Galaxy-for-CropsPrivate)
 
 ### **SNP Analysis Tools**
-6. **SNPseekv3Private**: A powerful tool for SNP analysis and integration with genomic data.  
-   - [GitHub Repository](https://github.com/irri/SNPseekv3Private)  
-   - [Documentation](https://docs.irri.org/SNPseekv3Private)
+5. **SNPseek**: A powerful tool for SNP analysis and integration with genomic data.  
+   - Web Application[repo](https://github.com/irri/SNPseekv3Private) [docs](https://docs.irri.org/SNPseekv3Private)  
+   - Datasource [repo](https://github.com/irri/SNPseekv3Private) [docs](https://docs.irri.org/SNPseekv3Private)
+   - Genotype Loader [repo](https://github.com/irri/SNPseekv3Private) [docs](https://docs.irri.org/SNPseekv3Private)
+   - Dockerized Version [repo](https://github.com/irri/SNPseekv3Private) [docs](https://docs.irri.org/SNPseekv3Private) [package](https://docs.irri.org/SNPseekv3Private)
 
-7. **docker_snpseekPublic**: Dockerized version of SNPseek, designed for efficient SNP analysis in rice genomes.  
-   - [GitHub Repository](https://github.com/irri/docker_snpseekPublic)
-
-8. **HASCH_ILPPublic**: SNP panel design tool using Integer Linear Programming (ILP) for rice, adapted from the HASCH genotyping platform.  
+6. **HASCH_ILPPublic**: SNP panel design tool using Integer Linear Programming (ILP) for rice, adapted from the HASCH genotyping platform.  
    - [GitHub Repository](https://github.com/irri/HASCH_ILPPublic)  
    - [Documentation](https://docs.irri.org/HASCH_ILPPublic)
 
 ### **Genetic and Phenotypic Data Tools**
-9. **BRS-utilitiesPublic**: A set of tools for data format conversion, transformation, and other carpentries in bioinformatics.  
+7. **BRS-utilitiesPublic**: A set of tools for data format conversion, transformation, and other carpentries in bioinformatics.  
    - [GitHub Repository](https://github.com/irri/BRS-utilitiesPublic)  
    - [Documentation](https://docs.irri.org/BRS-utilitiesPublic)
 
-10. **BRS_CropGalaxyPublic**: A combination of tools related to CropGalaxy with additional support for rice breeding and genomic studies.
+8. **BRS_CropGalaxyPublic**: A combination of tools related to CropGalaxy with additional support for rice breeding and genomic studies.
     - [GitHub Repository](https://github.com/irri/BRS_CropGalaxyPublic)
 
-11. **PlinkServePrivate**: A server tool for managing and processing genetic data, compatible with PLINK for GWAS and other genetic analyses.
+9. **PlinkServePrivate**: A server tool for managing and processing genetic data, compatible with PLINK for GWAS and other genetic analyses.
       - [GitHub Repository](https://github.com/irri/PlinkServePrivate)
 
-12. **PlinkServerFEPrivate**: Front-end tool for managing data on the PlinkServe platform, focused on user interaction and data visualization.
+10. **PlinkServerFEPrivate**: Front-end tool for managing data on the PlinkServe platform, focused on user interaction and data visualization.
       - [GitHub Repository](https://github.com/irri/PlinkServerFEPrivate)
 
 ### **Drone and Phenotypic Data Tools**
-13. **DronePhenomPrivate**: A tool designed to integrate drone-based phenotyping data for agricultural research.  
+11. **DronePhenomPrivate**: A tool designed to integrate drone-based phenotyping data for agricultural research.  
       - [GitHub Repository](https://github.com/irri/DronePhenomPrivate)
 
-14. **drone-phenomPrivate**: Another tool for processing drone phenotyping data to enhance the study of plant traits in rice.  
+12. **drone-phenomPrivate**: Another tool for processing drone phenotyping data to enhance the study of plant traits in rice.  
       - [GitHub Repository](https://github.com/irri/drone-phenomPrivate)
 
-15. **PhenoPredictMLPrivate**: A machine learning-based tool to predict phenotypic traits from genomic and environmental data.  
+13. **PhenoPredictMLPrivate**: A machine learning-based tool to predict phenotypic traits from genomic and environmental data.  
       - [GitHub Repository](https://github.com/irri/PhenoPredictMLPrivate)
 
 ### **Training and Educational Tools**
-16. **bbc2025v1Public**: Basic Bioinformatics Course 2025 (Version 1) – an educational resource for bioinformatics training.  
+14. **bbc2025v1Public**: Basic Bioinformatics Course 2025 (Version 1) – an educational resource for bioinformatics training.  
       - [Basic Bioinformatics Course 2025](https://github.com/irri/bbc2025v1Public)  
       - [Documentation](https://docs.irri.org/bbc2025v1Public)
 
