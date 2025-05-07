@@ -20,7 +20,7 @@ Join us as we **innovate** and **collaborate** in the world of rice research and
 Here are some of the key bioinformatics tools created and maintained by the Bioinformatics Team at IRRI, organized by type or similar projects:
 
 ### **Bioinformatics Portals and Platforms**
-1. **bioinfoPortalPublic**: The IRRI Bioinformatics Portal, providing a central hub for bioinformatics tools and resources.  
+1. **Bioinformatics Portal**: Providing a central hub for bioinformatics tools and resources.  
    - [GitHub Repository](https://github.com/irri/bioinfoPortalPublic)  
    - [Documentation](https://docs.irri.org/bioinfoPortalPublic)
   
