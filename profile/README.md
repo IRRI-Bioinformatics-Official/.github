@@ -55,29 +55,29 @@ Here are some of the key bioinformatics tools created and maintained by the Bioi
    - [GitHub Repository](https://github.com/irri/BRS-utilitiesPublic)  
    - [Documentation](https://docs.irri.org/BRS-utilitiesPublic)
 
-10. **BRS_CropGalaxyPublic**: A combination of tools related to CropGalaxy with additional support for rice breeding and genomic studies.  
-   - [GitHub Repository](https://github.com/irri/BRS_CropGalaxyPublic)
+10. **BRS_CropGalaxyPublic**: A combination of tools related to CropGalaxy with additional support for rice breeding and genomic studies.
+    - [GitHub Repository](https://github.com/irri/BRS_CropGalaxyPublic)
 
-11. **PlinkServePrivate**: A server tool for managing and processing genetic data, compatible with PLINK for GWAS and other genetic analyses.  
-   - [GitHub Repository](https://github.com/irri/PlinkServePrivate)
+11. **PlinkServePrivate**: A server tool for managing and processing genetic data, compatible with PLINK for GWAS and other genetic analyses.
+      - [GitHub Repository](https://github.com/irri/PlinkServePrivate)
 
-12. **PlinkServerFEPrivate**: Front-end tool for managing data on the PlinkServe platform, focused on user interaction and data visualization.  
-   - [GitHub Repository](https://github.com/irri/PlinkServerFEPrivate)
+12. **PlinkServerFEPrivate**: Front-end tool for managing data on the PlinkServe platform, focused on user interaction and data visualization.
+      - [GitHub Repository](https://github.com/irri/PlinkServerFEPrivate)
 
 ### **Drone and Phenotypic Data Tools**
 13. **DronePhenomPrivate**: A tool designed to integrate drone-based phenotyping data for agricultural research.  
-   - [GitHub Repository](https://github.com/irri/DronePhenomPrivate)
+      - [GitHub Repository](https://github.com/irri/DronePhenomPrivate)
 
 14. **drone-phenomPrivate**: Another tool for processing drone phenotyping data to enhance the study of plant traits in rice.  
-   - [GitHub Repository](https://github.com/irri/drone-phenomPrivate)
+      - [GitHub Repository](https://github.com/irri/drone-phenomPrivate)
 
 15. **PhenoPredictMLPrivate**: A machine learning-based tool to predict phenotypic traits from genomic and environmental data.  
-   - [GitHub Repository](https://github.com/irri/PhenoPredictMLPrivate)
+      - [GitHub Repository](https://github.com/irri/PhenoPredictMLPrivate)
 
 ### **Training and Educational Tools**
 16. **bbc2025v1Public**: Basic Bioinformatics Course 2025 (Version 1) – an educational resource for bioinformatics training.  
-   - [Basic Bioinformatics Course 2025](https://github.com/irri/bbc2025v1Public)  
-   - [Documentation](https://docs.irri.org/bbc2025v1Public)
+      - [Basic Bioinformatics Course 2025](https://github.com/irri/bbc2025v1Public)  
+      - [Documentation](https://docs.irri.org/bbc2025v1Public)
 
 ---
 
