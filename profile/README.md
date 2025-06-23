@@ -31,9 +31,7 @@ Join us as we **innovate** and **collaborate** in the world of rice research and
 Here are some of the key bioinformatics tools created and maintained by the Bioinformatics Team at IRRI, organized by type or similar projects:
 
 ### **Bioinformatics Portals and Platforms**
-1. **Bioinformatics Portal**: Providing a central hub for bioinformatics tools and resources.  
-   - [GitHub Repository](https://github.com/irri/bioinfoPortalPublic)  
-   - [Documentation](https://docs.irri.org/bioinfoPortalPublic)
+1. **[Bioinformatics Portal](https://bioinfo.irri.org/)**: Providing a central hub for bioinformatics tools and resources.  
   
 2. **Crop Galaxy**: A data-intensive platform designed for bioinformatics workflows.  
    - [GitHub Repository](https://github.com/irri/CropgalaxyPublic)  
