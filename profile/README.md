@@ -48,14 +48,13 @@ Bioinformatics Portal</a>**: Providing a central hub for bioinformatics tools an
 
 ### **SNP Analysis Tools**
 5. **SNPseek**: A powerful tool for SNP analysis and integration with genomic data.  
-   - Web Application. [Repository](https://github.com/RBI-Bioinformatics/SNPseekv3)) [Documentation](https://docs.irri.org/SNPseekv3Private)  
-   - Datasource [Repository](https://github.com/irri/SNPseekv3Private) [Documentation](https://docs.irri.org/SNPseekv3Private)
-   - Genotype Loader [Repository](https://github.com/irri/SNPseekv3Private) [Documentation](https://docs.irri.org/SNPseekv3Private)
-   - Dockerized Version [Repository](https://github.com/irri/SNPseekv3Private) [Documentation](https://docs.irri.org/SNPseekv3Private) [package](https://docs.irri.org/SNPseekv3Private)
+   - Web Application. [Repository](https://github.com/IRRI-Bioinformatics-Official/SNPseekv3)  [Manual] (https://github.com/IRRI-Bioinformatics-Official/SNP-Seekv3-Manual)
+   - Datasource [Repository](https://github.com/IRRI-Bioinformatics-Official/SNPseek-Datasource)
+   - Genotype Loader (in progress of migration) 
+   - Dockerized Version  [Packages](https://github.com/orgs/IRRI-Bioinformatics-Official/packages)
 
 6. **HASCH_ILPPublic**: SNP panel design tool using Integer Linear Programming (ILP) for rice, adapted from the HASCH genotyping platform.  
-   - [GitHub Repository](https://github.com/irri/HASCH_ILPPublic)  
-   - [Documentation](https://docs.irri.org/HASCH_ILPPublic)
+   - [GitHub Repository](https://github.com/IRRI-Bioinformatics-Official/HASCH_ILP)  
 
 ### **Genetic and Phenotypic Data Tools**
 7. **BRS-utilitiesPublic**: A set of tools for data format conversion, transformation, and other carpentries in bioinformatics.  
