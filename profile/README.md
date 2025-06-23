@@ -38,12 +38,11 @@ Bioinformatics Portal</a>**: Providing a central hub for bioinformatics tools an
    
       
 ### **SNP Analysis Tools**
-3. **SNPseek**: A powerful tool for SNP analysis and integration with genomic data.  
+3. **SNPseek**: SNPseek: Online Database for SNP Analysis and Genomic Data Integration.  
    - Web Application. [Repository](https://github.com/IRRI-Bioinformatics-Official/SNPseekv3)  [Manual](https://github.com/IRRI-Bioinformatics-Official/SNP-Seekv3-Manual)
    - Datasource [Repository](https://github.com/IRRI-Bioinformatics-Official/SNPseek-Datasource)
    - Genotype Loader (in progress of migration) 
-   - Dockerized Version  [Packages](https://github.com/orgs/IRRI-Bioinformatics-Official/packages)
-
+   - Dockerized Version  [Packages](https://github.com/orgs/IRRI-Bioinformatics-Official/packages) - Dockerized Local Version (with Subset of Database)
    
 ### **Genetic and Phenotypic Data Tools**
 4. **[BRS-utilitiesPublic](https://github.com/IRRI-Bioinformatics-Official/BRS-utilities)**: A set of tools for data format conversion, transformation, and other carpentries in bioinformatics.  
