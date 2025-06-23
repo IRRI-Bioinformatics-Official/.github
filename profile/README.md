@@ -48,7 +48,7 @@ Bioinformatics Portal</a>**: Providing a central hub for bioinformatics tools an
 
 ### **SNP Analysis Tools**
 5. **SNPseek**: A powerful tool for SNP analysis and integration with genomic data.  
-   - Web Application. [Repository](https://github.com/IRRI-Bioinformatics-Official/SNPseekv3)  [Manual] (https://github.com/IRRI-Bioinformatics-Official/SNP-Seekv3-Manual)
+   - Web Application. [Repository](https://github.com/IRRI-Bioinformatics-Official/SNPseekv3)  [Manual](https://github.com/IRRI-Bioinformatics-Official/SNP-Seekv3-Manual)
    - Datasource [Repository](https://github.com/IRRI-Bioinformatics-Official/SNPseek-Datasource)
    - Genotype Loader (in progress of migration) 
    - Dockerized Version  [Packages](https://github.com/orgs/IRRI-Bioinformatics-Official/packages)
@@ -57,12 +57,9 @@ Bioinformatics Portal</a>**: Providing a central hub for bioinformatics tools an
    - [GitHub Repository](https://github.com/IRRI-Bioinformatics-Official/HASCH_ILP)  
 
 ### **Genetic and Phenotypic Data Tools**
-7. **BRS-utilitiesPublic**: A set of tools for data format conversion, transformation, and other carpentries in bioinformatics.  
-   - [GitHub Repository](https://github.com/irri/BRS-utilitiesPublic)  
-   - [Documentation](https://docs.irri.org/BRS-utilitiesPublic)
-
-8. **BRS_CropGalaxyPublic**: A combination of tools related to CropGalaxy with additional support for rice breeding and genomic studies.
-    - [GitHub Repository](https://github.com/irri/BRS_CropGalaxyPublic)
+7. **[BRS-utilitiesPublic](https://github.com/IRRI-Bioinformatics-Official/BRS-utilities)**: A set of tools for data format conversion, transformation, and other carpentries in bioinformatics.  
+   
+8. **[BRS_CropGalaxyPublic](https://github.com/IRRI-Bioinformatics-Official/BRS_CropGalaxy)**: A combination of tools related to CropGalaxy with additional support for rice breeding and genomic studies
 
 9. **PlinkServePrivate**: A server tool for managing and processing genetic data, compatible with PLINK for GWAS and other genetic analyses.
       - [GitHub Repository](https://github.com/irri/PlinkServePrivate)
