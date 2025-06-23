@@ -11,16 +11,15 @@
 
 ---
 ## Introduction
-The **Bioinformatics Team** at the *International Rice Research Institute (IRRI)* is dedicated to advancing rice research through the application of computational biology, data analysis, and genomic technologies.
+The **[Bioinformatics Team](https://bioinfo.irri.org/our-team)** at the *International Rice Research Institute (IRRI)* is dedicated to advancing rice research through the application of computational biology, data analysis, and genomic technologies.
 
-Our team develops and applies cutting-edge **bioinformatics tools** to analyze large-scale genomic and phenotypic data, supporting the improvement of rice varieties for:
-- Higher yield
-- Disease resistance
-- Climate resilience
+We offer a suite of cutting-edge bioinformatics services designed to support breeding programs and research focused on improving rice varieties for higher yield, disease resistance, and climate resilience. Our expertise lies in the analysis of large-scale genomic and phenotypic data through the following service packages:
+1. Variant Calling 
+2. High-Throughput Phenotyping (HTP) Analysis 
+3. Genome-Wide Association Studies (GWAS) 
+4. Post-GWAS Analysis 
+5. Custom Omics Integration 
 
-By integrating **genomics**, **machine learning**, and **advanced data analytics**, we contribute to:
-- **Sustainable agricultural practices**
-- **Global food security**
 
 Join us as we **innovate** and **collaborate** in the world of rice research and breeding!
 
