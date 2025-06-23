@@ -34,18 +34,12 @@ Here are some of the key bioinformatics tools created and maintained by the Bioi
 1. **<a href="https://bioinfo.irri.org/" target="_blank" rel="noopener noreferrer">
 Bioinformatics Portal</a>**: Providing a central hub for bioinformatics tools and resources.  
   
-2. **Crop Galaxy**: A data-intensive platform designed for bioinformatics workflows.  
-   - [GitHub Repository](https://github.com/irri/CropgalaxyPublic)  
-   - [Documentation](https://docs.irri.org/CropgalaxyPublic)
-   - Dockerized version [GitHub Repository](https://github.com/irri/docker_cropgalaxyPrivate)
-  
-3. **Galaxy**: A platform for data-intensive science, enabling reproducible research and bioinformatics analysis.  
-   - [GitHub Repository](https://github.com/irri/GalaxyPublic)  
-   - [Documentation](https://docs.irri.org/GalaxyPublic)
-
-4. **Galaxy-for-CropsPrivate**: A tailored version of the Galaxy platform optimized for crop science and research.  
-   - [GitHub Repository](https://github.com/irri/Galaxy-for-CropsPrivate)
-
+2. **[Crop Galaxy](https://github.com/IRRI-Bioinformatics-Official/Cropgalaxy)**: A data-intensive platform designed for bioinformatics workflows.  
+   
+3. **[Galaxy](https://github.com/IRRI-Bioinformatics-Official/galaxy)**: A platform for data-intensive science, enabling reproducible research and bioinformatics analysis.  
+   
+4. **[Galaxy-for-CropsPrivate](https://github.com/IRRI-Bioinformatics-Official/Galaxy-for-Crops)**: A tailored version of the Galaxy platform optimized for crop science and research.  
+   
 ### **SNP Analysis Tools**
 5. **SNPseek**: A powerful tool for SNP analysis and integration with genomic data.  
    - Web Application. [Repository](https://github.com/IRRI-Bioinformatics-Official/SNPseekv3)  [Manual](https://github.com/IRRI-Bioinformatics-Official/SNP-Seekv3-Manual)
