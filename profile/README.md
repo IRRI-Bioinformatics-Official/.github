@@ -36,46 +36,29 @@ Bioinformatics Portal</a>**: Providing a central hub for bioinformatics tools an
   
 2. **[Crop Galaxy](https://github.com/IRRI-Bioinformatics-Official/Cropgalaxy)**: A data-intensive platform designed for bioinformatics workflows.  
    
-3. **[Galaxy](https://github.com/IRRI-Bioinformatics-Official/galaxy)**: A platform for data-intensive science, enabling reproducible research and bioinformatics analysis.  
-   
-4. **[Galaxy-for-CropsPrivate](https://github.com/IRRI-Bioinformatics-Official/Galaxy-for-Crops)**: A tailored version of the Galaxy platform optimized for crop science and research.  
-   
+      
 ### **SNP Analysis Tools**
-5. **SNPseek**: A powerful tool for SNP analysis and integration with genomic data.  
+3. **SNPseek**: A powerful tool for SNP analysis and integration with genomic data.  
    - Web Application. [Repository](https://github.com/IRRI-Bioinformatics-Official/SNPseekv3)  [Manual](https://github.com/IRRI-Bioinformatics-Official/SNP-Seekv3-Manual)
    - Datasource [Repository](https://github.com/IRRI-Bioinformatics-Official/SNPseek-Datasource)
    - Genotype Loader (in progress of migration) 
    - Dockerized Version  [Packages](https://github.com/orgs/IRRI-Bioinformatics-Official/packages)
 
-6. **HASCH_ILPPublic**: SNP panel design tool using Integer Linear Programming (ILP) for rice, adapted from the HASCH genotyping platform.  
-   - [GitHub Repository](https://github.com/IRRI-Bioinformatics-Official/HASCH_ILP)  
-
-### **Genetic and Phenotypic Data Tools**
-7. **[BRS-utilitiesPublic](https://github.com/IRRI-Bioinformatics-Official/BRS-utilities)**: A set of tools for data format conversion, transformation, and other carpentries in bioinformatics.  
    
-8. **[BRS_CropGalaxyPublic](https://github.com/IRRI-Bioinformatics-Official/BRS_CropGalaxy)**: A combination of tools related to CropGalaxy with additional support for rice breeding and genomic studies
+### **Genetic and Phenotypic Data Tools**
+4. **[BRS-utilitiesPublic](https://github.com/IRRI-Bioinformatics-Official/BRS-utilities)**: A set of tools for data format conversion, transformation, and other carpentries in bioinformatics.  
+   
+5. **[BRS_CropGalaxyPublic](https://github.com/IRRI-Bioinformatics-Official/BRS_CropGalaxy)**: A combination of tools related to CropGalaxy with additional support for rice breeding and genomic studies
 
-9. **PlinkServePrivate**: A server tool for managing and processing genetic data, compatible with PLINK for GWAS and other genetic analyses.
-      - [GitHub Repository](https://github.com/irri/PlinkServePrivate)
-
-10. **PlinkServerFEPrivate**: Front-end tool for managing data on the PlinkServe platform, focused on user interaction and data visualization.
-      - [GitHub Repository](https://github.com/irri/PlinkServerFEPrivate)
-
+6. **PlinkServerFEPrivate**: Front-end tool for managing data on the PlinkServe platform, focused on user interaction and data visualization.
+   
 ### **Drone and Phenotypic Data Tools**
-11. **DronePhenomPrivate**: A tool designed to integrate drone-based phenotyping data for agricultural research.  
-      - [GitHub Repository](https://github.com/irri/DronePhenomPrivate)
 
-12. **drone-phenomPrivate**: Another tool for processing drone phenotyping data to enhance the study of plant traits in rice.  
-      - [GitHub Repository](https://github.com/irri/drone-phenomPrivate)
-
-13. **PhenoPredictMLPrivate**: A machine learning-based tool to predict phenotypic traits from genomic and environmental data.  
-      - [GitHub Repository](https://github.com/irri/PhenoPredictMLPrivate)
-
+13. **[PhenoPredictMLPrivate](https://github.com/IRRI-Bioinformatics-Official/PhenoPredictML)**: A machine learning-based tool to predict phenotypic traits from genomic and environmental data.  
+   
 ### **Training and Educational Tools**
-14. **bbc2025v1Public**: Basic Bioinformatics Course 2025 (Version 1) – an educational resource for bioinformatics training.  
-      - [Basic Bioinformatics Course 2025](https://github.com/irri/bbc2025v1Public)  
-      - [Documentation](https://docs.irri.org/bbc2025v1Public)
-
+14. **[Basic Bioinformatics Course 2025](https://github.com/IRRI-Bioinformatics-Official/bbc2025v1)**:  an educational resource for bioinformatics training.  
+   
 ---
 
 *For more information or collaboration inquiries, feel free to connect with us!*
