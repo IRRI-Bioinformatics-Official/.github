@@ -54,10 +54,10 @@ Bioinformatics Portal</a>**: Providing a central hub for bioinformatics tools an
    
 ### **Drone and Phenotypic Data Tools**
 
-13. **[PhenoPredictMLPrivate](https://github.com/IRRI-Bioinformatics-Official/PhenoPredictML)**: A machine learning-based tool to predict phenotypic traits from genomic and environmental data.  
+7. **[PhenoPredictMLPrivate](https://github.com/IRRI-Bioinformatics-Official/PhenoPredictML)**: A machine learning-based tool to predict phenotypic traits from genomic and environmental data.  
    
 ### **Training and Educational Tools**
-14. **[Basic Bioinformatics Course 2025](https://github.com/IRRI-Bioinformatics-Official/bbc2025v1)**:  an educational resource for bioinformatics training.  
+8. **[Basic Bioinformatics Course 2025](https://github.com/IRRI-Bioinformatics-Official/bbc2025v1)**:  an educational resource for bioinformatics training.  
    
 ---
 
